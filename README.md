@@ -6,19 +6,19 @@
 <!-- LAYER 2: GLOWING SOCIAL LINKS -->
 <p align="center">
   <a href="https://bit.ly/nivethag-linkdin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&cacheSeconds=3600" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Nivi842">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://bit.ly/nivethag-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF416C?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF416C&color=FF416C" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nivetha_.g_/">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4&color=833AB4" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:nivethag.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -26,9 +26,9 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/marker.png"/><br/><b>Chennai</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/phone.png"/><br/><b>+91 9344644126</b></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/email.png"/><br/><b>nivethag.dev</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/marker.png" width="30"/><br/><b>Chennai</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/phone.png" width="30"/><br/><b>+91 9344644126</b></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/email.png" width="30"/><br/><b>nivethag.dev</b></td>
     </tr>
   </table>
 </div>
@@ -43,11 +43,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
 </div>
 
-<!-- LAYER 6: ABOUT ME WITH GLASSMORPHISM CARD -->
+<!-- LAYER 6: ABOUT ME WITH COOL GIF -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
+  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="30"> 
   ABOUT ME
-  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="30">
 </h2>
 
 <table align="center">
@@ -59,51 +59,54 @@
         <li>📦 <b>Mastered:</b> Kafka, Distributed Systems, Cloud Architecture</li>
         <li>🎯 <b>2025 Goal:</b> Contribute to CNCF projects & master Kubernetes</li>
         <li>💡 <b>Philosophy:</b> Clean code, scalable architecture, continuous learning</li>
+        <li>☕ <b>Fun fact:</b> I turn coffee into scalable microservices</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 10px;">
+      <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250px" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
 
 <!-- LAYER 7: 3D TECH STACK CUBE -->
 <h2 align="center">
-  <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif" width="30">
   TECH ARSENAL
-  <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif" width="30">
 </h2>
 
 <div align="center">
   
   **☕ LANGUAGES & FRAMEWORKS**
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=6DB33F" />
-    <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F" />
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=59666C" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   </p>
 
   **⚡ DISTRIBUTED SYSTEMS**
   <p>
-    <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=spring&logoColor=white&labelColor=FF6B6B" />
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=231F20" />
-    <img src="https://img.shields.io/badge/Event_Driven-0081CB?style=for-the-badge&logo=eventbrite&logoColor=white&labelColor=0081CB" />
+    <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
   </p>
 
   **🗄️ DATABASES**
   <p>
-    <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white&labelColor=EA2328" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192" />
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=005571" />
+    <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </p>
 
   **☁️ CLOUD & DEVOPS**
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   </p>
 </div>
 
@@ -114,21 +117,21 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/000000/medal.png" width="50"/>
+        <img src="https://img.icons8.com/fluency/96/medal.png" width="40"/>
         <br/>
         <b>99.9% Uptime</b>
         <br/>
         <sub>Hybrid DR on 70+ services</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/000000/kafka.png" width="50"/>
+        <img src="https://img.icons8.com/fluency/96/kafka.png" width="40"/>
         <br/>
         <b>100% Recovery</b>
         <br/>
         <sub>Kafka DLQ Automation</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/000000/kubernetes.png" width="50"/>
+        <img src="https://img.icons8.com/fluency/96/kubernetes.png" width="40"/>
         <br/>
         <b>40% Less Manual</b>
         <br/>
@@ -156,23 +159,26 @@
 
 <!-- LAYER 11: CONNECT WITH STYLE -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="30">
   LET'S CONNECT
-  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="30">
 </h2>
 
 <div align="center">
   <a href="https://bit.ly/nivethag-linkdin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Nivi842">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nivetha_.g_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://bit.ly/nivethag-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:nivethag.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
   <br/>
