@@ -5,57 +5,48 @@
   <br>
   <br>
   
-  <!-- ALL LINKS IN HEADER LAYER (ONCE) -->
+  <!-- ALL LINKS IN HEADER - USING ONLY STANDARD BADGES -->
   <p>
     <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
     <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
-    <a href="https://nivetha-g-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" height="35"/></a>
+    <a href="https://nivetha-g-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>
     <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
     <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
   </p>
   
   <br>
   
-  <!-- CONTACT INFO IN HEADER -->
+  <!-- CONTACT INFO USING ONLY TEXT -->
   <p>
-    <img src="https://img.shields.io/badge/Chennai-📍-6C63FF?style=flat-square" height="30"/>
-    <img src="https://img.shields.io/badge/+91%209344644126-📞-6C63FF?style=flat-square" height="30"/>
-    <img src="https://img.shields.io/badge/nivethag.dev@gmail.com-✉️-6C63FF?style=flat-square" height="30"/>
+    <b>📍 Chennai</b> &nbsp; | &nbsp; <b>📞 +91 9344644126</b> &nbsp; | &nbsp; <b>✉️ nivethag.dev@gmail.com</b>
   </p>
 </div>
 
 <br>
 <br>
 
-<!-- LAYER 2: NEON DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-</div>
+<!-- LAYER 2: SIMPLE DIVIDER -->
+<hr width="90%" color="#6C63FF" size="2">
 
 <br>
 <br>
 
 <!-- LAYER 3: ABOUT ME -->
-<h1 align="center">
-  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="35"> 
-  ABOUT ME
-  <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="35">
-</h1>
+<h1 align="center">⚡ ABOUT ME ⚡</h1>
 
 <br>
 
 <table align="center" width="90%" border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>⚡ Backend Engineer</h3>
       <ul>
-        <li><h4>🔭 <b>Current:</b> Experienced Software Developer @ Amdocs</h4></li>
+        <li><h3>🔭 <b>Current:</b> Experienced Software Developer @ Amdocs</h3></li>
         <br>
-        <li><h4>⚙️ <b>Building:</b> 70+ microservices with 99.9% uptime on AWS EKS</h4></li>
+        <li><h3>⚙️ <b>Building:</b> 70+ microservices with 99.9% uptime on AWS EKS</h3></li>
         <br>
-        <li><h4>📦 <b>Expertise:</b> Java • Spring Boot • Kafka • AWS • Kubernetes</h4></li>
+        <li><h3>📦 <b>Expertise:</b> Java • Spring Boot • Kafka • AWS • Kubernetes</h3></li>
         <br>
-        <li><h4>🎯 <b>Focus:</b> Distributed Systems • Cloud Architecture • Microservices</h4></li>
+        <li><h3>🎯 <b>Focus:</b> Distributed Systems • Cloud Architecture • Microservices</h3></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -67,20 +58,14 @@
 <br>
 <br>
 
-<!-- LAYER 4: NEON DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-</div>
+<!-- LAYER 4: SIMPLE DIVIDER -->
+<hr width="90%" color="#6C63FF" size="2">
 
 <br>
 <br>
 
 <!-- LAYER 5: TECH STACK -->
-<h1 align="center">
-  <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif" width="35">
-  TECH STACK
-  <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif" width="35">
-</h1>
+<h1 align="center">🛠️ TECH STACK 🛠️</h1>
 
 <br>
 
@@ -90,7 +75,7 @@
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="35"/>
-    <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35"/>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="35"/>
   </p>
 
@@ -131,16 +116,14 @@
 <br>
 <br>
 
-<!-- LAYER 6: NEON DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-</div>
+<!-- LAYER 6: SIMPLE DIVIDER -->
+<hr width="90%" color="#6C63FF" size="2">
 
 <br>
 <br>
 
 <!-- LAYER 7: ACHIEVEMENTS -->
-<h1 align="center">🏆 ACHIEVEMENTS</h1>
+<h1 align="center">🏆 ACHIEVEMENTS 🏆</h1>
 
 <br>
 
@@ -157,20 +140,14 @@
 <br>
 <br>
 
-<!-- LAYER 8: NEON DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-</div>
+<!-- LAYER 8: SIMPLE DIVIDER -->
+<hr width="90%" color="#6C63FF" size="2">
 
 <br>
 <br>
 
 <!-- LAYER 9: GITHUB STATS -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  GITHUB STATS
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-</h1>
+<h1 align="center">📊 GITHUB STATS 📊</h1>
 
 <br>
 
@@ -187,11 +164,12 @@
 
 <!-- LAYER 10: FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-  <br>
+  <hr width="90%" color="#6C63FF" size="2">
   <br>
   <img src="https://profile-counter.glitch.me/Nivi842/count.svg" width="280"/>
   <br>
+  <br>
+  <h4>✨ Thanks for visiting! ✨</h4>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=100&section=footer" width="100%"/>
 </div>
