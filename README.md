@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<!-- LAYER 2: SOCIAL LINKS -->
+<!-- LAYER 2: SOCIAL LINKS (ONCE) -->
 <p align="center">
   <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
   <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
@@ -18,17 +18,7 @@
 <br>
 <br>
 
-<!-- LAYER 3: CONTACT INFO CARDS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-CHENNAI-6C63FF?style=for-the-badge&logo=google-maps&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/PHONE-+91%209344644126-6C63FF?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/EMAIL-nivethag.dev@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</p>
-
-<br>
-<br>
-
-<!-- LAYER 4: NEON DIVIDER -->
+<!-- LAYER 3: NEON DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
 </div>
@@ -36,7 +26,7 @@
 <br>
 <br>
 
-<!-- LAYER 5: ABOUT ME SECTION -->
+<!-- LAYER 4: ABOUT ME SECTION -->
 <h1 align="center">
   <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="40"> 
   ABOUT ME
@@ -48,7 +38,7 @@
 <table align="center" width="90%" border="0">
   <tr>
     <td width="60%" valign="top">
-      <h2>⚡ Backend Engineer specialized in:</h2>
+      <h2>⚡ Backend Engineer</h2>
       <ul>
         <li><h3>🔭 <b>Current:</b> Experienced Software Developer @ Amdocs</h3></li>
         <br>
@@ -56,9 +46,11 @@
         <br>
         <li><h3>📦 <b>Expertise:</b> Java • Spring Boot • Kafka • AWS • Kubernetes</h3></li>
         <br>
-        <li><h3>🎯 <b>Focus:</b> Distributed Systems • Cloud Architecture • Microservices</h3></li>
-        <br>
         <li><h3>📍 <b>Based in:</b> Chennai, India</h3></li>
+        <br>
+        <li><h3>📧 <b>Email:</b> nivethag.dev@gmail.com</h3></li>
+        <br>
+        <li><h3>📱 <b>Phone:</b> +91 9344644126</h3></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -70,7 +62,7 @@
 <br>
 <br>
 
-<!-- LAYER 6: NEON DIVIDER -->
+<!-- LAYER 5: NEON DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
 </div>
@@ -78,10 +70,10 @@
 <br>
 <br>
 
-<!-- LAYER 7: TECH STACK -->
+<!-- LAYER 6: TECH STACK -->
 <h1 align="center">
   <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif" width="40">
-  TECH ARSENAL
+  TECH STACK
   <img src="https://media4.giphy.com/media/FoVzfcq12SbXmB6Mxx/giphy.gif" width="40">
 </h1>
 
@@ -108,7 +100,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=spring&logoColor=white" height="40"/>
         <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="40"/>
-        <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=swagger&logoColor=white" height="40"/>
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white" height="40"/>
       </td>
     </tr>
     <tr><td><br></td></tr>
@@ -142,7 +134,7 @@
 <br>
 <br>
 
-<!-- LAYER 8: ACHIEVEMENTS -->
+<!-- LAYER 7: ACHIEVEMENTS -->
 <h1 align="center">🏆 KEY ACHIEVEMENTS</h1>
 
 <br>
@@ -160,112 +152,53 @@
 <br>
 <br>
 
-<!-- LAYER 9: GITHUB ANALYTICS - FIXED -->
+<!-- LAYER 8: GITHUB ANALYTICS -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
-  GITHUB ANALYTICS
+  GITHUB STATS
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
 </h1>
 
 <br>
 
 <div align="center">
-  <table width="95%" align="center" border="0" cellpadding="10">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&include_all_commits=true&count_private=true" width="450"/>
-        <br>
-        <h3>📊 GitHub Stats</h3>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B" width="450"/>
-        <br>
-        <h3>🔥 Contribution Streak</h3>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="600"/>
-        <br>
-        <h3>💻 Most Used Languages</h3>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B" width="48%"/>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%"/>
 </div>
 
 <br>
 <br>
 
-<!-- LAYER 10: LET'S CONNECT - FIXED -->
+<!-- LAYER 9: LET'S CONNECT (SIMPLIFIED) -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  LET'S CONNECT
+  CONNECT
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </h1>
 
 <br>
 
 <div align="center">
-  <table width="90%" align="center" border="0" cellpadding="10">
-    <tr align="center">
-      <td>
-        <a href="https://bit.ly/nivethag-linkdin">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
-        </a>
-        <br>
-        <h4>🔗 Connect Professionally</h4>
-      </td>
-      <td>
-        <a href="https://github.com/Nivi842">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
-        </a>
-        <br>
-        <h4>🐙 Follow My Code</h4>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/nivetha_.g_/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/>
-        </a>
-        <br>
-        <h4>📸 Behind the Scenes</h4>
-      </td>
-    </tr>
-    <tr align="center">
-      <td>
-        <a href="https://bit.ly/nivethag-portfolio">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" height="45"/>
-        </a>
-        <br>
-        <h4>🌐 View My Work</h4>
-      </td>
-      <td>
-        <a href="mailto:nivethag.dev@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
-        </a>
-        <br>
-        <h4>📧 Send a Message</h4>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Open%20To-Work%20%26%20Collaborate-6C63FF?style=for-the-badge" height="45"/>
-        <br>
-        <h4>🤝 Let's Build</h4>
-      </td>
-    </tr>
-  </table>
+  <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+  <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+  <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>
+  <a href="https://bit.ly/nivethag-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" height="40"/></a>
+  <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
 </div>
 
 <br>
 <br>
-<br>
 
-<!-- LAYER 11: FOOTER -->
+<!-- LAYER 10: FOOTER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-  <br><br>
-  <img src="https://profile-counter.glitch.me/Nivi842/count.svg" width="300"/>
-  <br><br>
-  <h3>✨ Thanks for visiting! Let's build something amazing together ✨</h3>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=150&section=footer" width="100%"/>
+  <br>
+  <img src="https://profile-counter.glitch.me/Nivi842/count.svg" width="300"/>
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=120&section=footer" width="100%"/>
 </div>
