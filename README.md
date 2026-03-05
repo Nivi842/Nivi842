@@ -1,170 +1,134 @@
 <div align="center">
-  
-  <!-- PRIMARY LAYER: FLOATING PROFILE -->
-  <div style="position: relative; width: 900px; height: 250px; margin: 40px auto;">
+  <!-- LAYER 1: PROFILE CARD - 3 LEVEL DEEP -->
+  <div style="position: relative; width: 800px; height: 220px; margin: 40px auto;">
     <!-- Base Layer -->
-    <div style="position: absolute; width: 100%; height: 100%; background: #0a192f; border-radius: 16px; transform: translate(12px, 12px); border: 2px solid #64ffda20; z-index: 1;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; background: #1e2a3a; border-radius: 20px; transform: translate(10px, 10px); z-index: 1;"></div>
     <!-- Middle Layer -->
-    <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(6px, 6px); border: 2px solid #64ffda40; z-index: 2;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; background: #2a3b4c; border-radius: 20px; transform: translate(5px, 5px); z-index: 2;"></div>
     <!-- Top Layer -->
-    <div style="position: absolute; width: 100%; height: 100%; background: #1a2b4a; border-radius: 16px; border: 2px solid #64ffda; box-shadow: 0 20px 30px -10px rgba(0,0,0,0.5); z-index: 3; display: flex; flex-direction: column; justify-content: center;">
-      <h1 style="color: #ccd6f6; font-size: 48px; font-weight: 600; letter-spacing: -0.5px; margin: 0;">NIVETHA G</h1>
-      <p style="color: #64ffda; font-size: 20px; margin: 8px 0;">Backend Software Engineer</p>
-      <p style="color: #8892b0; font-size: 16px; margin: 0;">Java · Spring Boot · Kafka · AWS · Kubernetes</p>
+    <div style="position: absolute; width: 100%; height: 100%; background: linear-gradient(145deg, #2b3d4f, #1e2f3f); border-radius: 20px; border: 2px solid #4ec9b0; box-shadow: 0 15px 25px -10px black; z-index: 3; display: flex; flex-direction: column; justify-content: center;">
+      <h1 style="color: white; font-size: 42px; margin: 0; font-weight: 600;">NIVETHA G</h1>
+      <p style="color: #4ec9b0; font-size: 18px; margin: 5px 0;">Backend Software Engineer</p>
+      <p style="color: #9aa9b9; font-size: 15px;">Java · Spring Boot · Kafka · AWS · Kubernetes</p>
     </div>
   </div>
 
-  <!-- SECONDARY LAYER: CONNECT CARDS -->
-  <div style="display: flex; gap: 30px; justify-content: center; margin: 60px 0; perspective: 1200px;">
-    
-    <!-- Card 1 - LinkedIn (3 Layer Stack) -->
-    <div style="position: relative; width: 200px; height: 100px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #0077b5; opacity: 0.3; border-radius: 8px; transform: translate(8px, 8px); z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #0077b5; opacity: 0.6; border-radius: 8px; transform: translate(4px, 4px); z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #0077b5; border-radius: 8px; display: flex; align-items: center; justify-content: center; z-index: 3; box-shadow: 0 10px 20px -5px rgba(0,0,0,0.3);">
-        <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/" style="color: white; text-decoration: none; font-weight: 500;">LINKEDIN</a>
+  <!-- LAYER 2: CONNECT CARDS - EACH 3 LEVELS DEEP -->
+  <div style="display: flex; gap: 25px; justify-content: center; margin: 50px 0;">
+    <!-- LinkedIn -->
+    <div style="position: relative; width: 160px; height: 70px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #0a66c2; border-radius: 10px; transform: translate(6px, 6px); opacity: 0.3; z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #0a66c2; border-radius: 10px; transform: translate(3px, 3px); opacity: 0.6; z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #0a66c2; border-radius: 10px; display: flex; align-items: center; justify-content: center; z-index: 3;">
+        <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/" style="color: white; text-decoration: none;">LinkedIn</a>
       </div>
     </div>
-    
-    <!-- Card 2 - Portfolio (3 Layer Stack) -->
-    <div style="position: relative; width: 200px; height: 100px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #6c5ce7; opacity: 0.3; border-radius: 8px; transform: translate(8px, 8px); z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #6c5ce7; opacity: 0.6; border-radius: 8px; transform: translate(4px, 4px); z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #6c5ce7; border-radius: 8px; display: flex; align-items: center; justify-content: center; z-index: 3; box-shadow: 0 10px 20px -5px rgba(0,0,0,0.3);">
-        <a href="https://nivetha-g-dev-portfolio.vercel.app/" style="color: white; text-decoration: none; font-weight: 500;">PORTFOLIO</a>
+    <!-- Portfolio -->
+    <div style="position: relative; width: 160px; height: 70px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #6c5ce7; border-radius: 10px; transform: translate(6px, 6px); opacity: 0.3; z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #6c5ce7; border-radius: 10px; transform: translate(3px, 3px); opacity: 0.6; z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #6c5ce7; border-radius: 10px; display: flex; align-items: center; justify-content: center; z-index: 3;">
+        <a href="https://nivetha-g-dev-portfolio.vercel.app/" style="color: white; text-decoration: none;">Portfolio</a>
       </div>
     </div>
-    
-    <!-- Card 3 - GitHub (3 Layer Stack) -->
-    <div style="position: relative; width: 200px; height: 100px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #333; opacity: 0.3; border-radius: 8px; transform: translate(8px, 8px); z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #333; opacity: 0.6; border-radius: 8px; transform: translate(4px, 4px); z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #333; border-radius: 8px; display: flex; align-items: center; justify-content: center; z-index: 3; box-shadow: 0 10px 20px -5px rgba(0,0,0,0.3);">
-        <a href="https://github.com/Nivi842" style="color: white; text-decoration: none; font-weight: 500;">GITHUB</a>
+    <!-- GitHub -->
+    <div style="position: relative; width: 160px; height: 70px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #24292e; border-radius: 10px; transform: translate(6px, 6px); opacity: 0.3; z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #24292e; border-radius: 10px; transform: translate(3px, 3px); opacity: 0.6; z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #24292e; border-radius: 10px; display: flex; align-items: center; justify-content: center; z-index: 3;">
+        <a href="https://github.com/Nivi842" style="color: white; text-decoration: none;">GitHub</a>
       </div>
     </div>
-    
-    <!-- Card 4 - Gmail (3 Layer Stack) -->
-    <div style="position: relative; width: 200px; height: 100px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #ea4335; opacity: 0.3; border-radius: 8px; transform: translate(8px, 8px); z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #ea4335; opacity: 0.6; border-radius: 8px; transform: translate(4px, 4px); z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #ea4335; border-radius: 8px; display: flex; align-items: center; justify-content: center; z-index: 3; box-shadow: 0 10px 20px -5px rgba(0,0,0,0.3);">
-        <a href="mailto:nivethag.dev@gmail.com" style="color: white; text-decoration: none; font-weight: 500;">GMAIL</a>
+    <!-- Gmail -->
+    <div style="position: relative; width: 160px; height: 70px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #ea4335; border-radius: 10px; transform: translate(6px, 6px); opacity: 0.3; z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #ea4335; border-radius: 10px; transform: translate(3px, 3px); opacity: 0.6; z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #ea4335; border-radius: 10px; display: flex; align-items: center; justify-content: center; z-index: 3;">
+        <a href="mailto:nivethag.dev@gmail.com" style="color: white; text-decoration: none;">Gmail</a>
       </div>
     </div>
   </div>
 
-  <!-- TERTIARY LAYER: MAIN CONTENT STACK -->
-  <div style="display: flex; gap: 30px; justify-content: center; margin: 40px 0; width: 1200px; margin: 40px auto;">
-    
-    <!-- Column 1: About (3 Layer Deep) -->
-    <div style="position: relative; width: 380px; height: 450px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(12px, 12px); border: 1px solid #64ffda20; z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(6px, 6px); border: 1px solid #64ffda40; z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; border: 1px solid #64ffda; padding: 25px; box-sizing: border-box; z-index: 3;">
-        <h3 style="color: #64ffda; font-size: 22px; margin-top: 0;">ABOUT</h3>
-        <p style="color: #8892b0; line-height: 1.6;">Backend Engineer with experience building high-performance microservices using Java, Spring Boot, Kafka, and AWS. Focus on scalability, reliability, and clean architecture.</p>
+  <!-- LAYER 3: MAIN CONTENT - 3 COLUMNS EACH 3 LEVELS DEEP -->
+  <div style="display: flex; gap: 25px; justify-content: center; max-width: 1100px; margin: 40px auto;">
+    <!-- About Column -->
+    <div style="position: relative; width: 340px; height: 380px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #1e2a3a; border-radius: 18px; transform: translate(8px, 8px); z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #2a3b4c; border-radius: 18px; transform: translate(4px, 4px); z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #1e2f3f; border-radius: 18px; border: 2px solid #4ec9b0; padding: 25px; box-sizing: border-box; z-index: 3;">
+        <h3 style="color: #4ec9b0; margin: 0 0 20px 0;">ABOUT</h3>
+        <p style="color: #e1e9f0; line-height: 1.6;">Backend Engineer specializing in high-performance microservices, distributed systems, and cloud architecture.</p>
         <div style="margin-top: 30px;">
-          <p style="color: #ccd6f6; margin: 5px 0;"><span style="color: #64ffda; width: 80px; display: inline-block;">📍</span> Chennai, India</p>
-          <p style="color: #ccd6f6; margin: 5px 0;"><span style="color: #64ffda; width: 80px; display: inline-block;">🎓</span> VIT - Biomedical Engineering</p>
-          <p style="color: #ccd6f6; margin: 5px 0;"><span style="color: #64ffda; width: 80px; display: inline-block;">💼</span> Amdocs · OpalMinds</p>
+          <p style="color: #b0c4de;"><span style="color: #4ec9b0;">📍</span> Chennai, India</p>
+          <p style="color: #b0c4de;"><span style="color: #4ec9b0;">🎓</span> VIT - Biomedical Engineering</p>
+          <p style="color: #b0c4de;"><span style="color: #4ec9b0;">💼</span> Amdocs · OpalMinds</p>
         </div>
       </div>
     </div>
     
-    <!-- Column 2: Tech Stack (3 Layer Deep) -->
-    <div style="position: relative; width: 380px; height: 450px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(12px, 12px); border: 1px solid #64ffda20; z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(6px, 6px); border: 1px solid #64ffda40; z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; border: 1px solid #64ffda; padding: 25px; box-sizing: border-box; z-index: 3;">
-        <h3 style="color: #64ffda; font-size: 22px; margin-top: 0;">TECH STACK</h3>
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">Java</span>
+    <!-- Tech Stack Column -->
+    <div style="position: relative; width: 340px; height: 380px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #1e2a3a; border-radius: 18px; transform: translate(8px, 8px); z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #2a3b4c; border-radius: 18px; transform: translate(4px, 4px); z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #1e2f3f; border-radius: 18px; border: 2px solid #4ec9b0; padding: 25px; box-sizing: border-box; z-index: 3;">
+        <h3 style="color: #4ec9b0; margin: 0 0 20px 0;">TECH STACK</h3>
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
+          <div style="background: #2a3b4c; padding: 10px; border-radius: 8px; border-left: 3px solid #4ec9b0;">
+            <span style="color: white;">Java</span>
           </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">Spring Boot</span>
+          <div style="background: #2a3b4c; padding: 10px; border-radius: 8px; border-left: 3px solid #4ec9b0;">
+            <span style="color: white;">Spring Boot</span>
           </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">Kafka</span>
+          <div style="background: #2a3b4c; padding: 10px; border-radius: 8px; border-left: 3px solid #4ec9b0;">
+            <span style="color: white;">Kafka</span>
           </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">AWS</span>
+          <div style="background: #2a3b4c; padding: 10px; border-radius: 8px; border-left: 3px solid #4ec9b0;">
+            <span style="color: white;">AWS</span>
           </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">Kubernetes</span>
+          <div style="background: #2a3b4c; padding: 10px; border-radius: 8px; border-left: 3px solid #4ec9b0;">
+            <span style="color: white;">Kubernetes</span>
           </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">PostgreSQL</span>
-          </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">Elasticsearch</span>
-          </div>
-          <div style="background: #1a2b4a; padding: 12px; border-radius: 8px; text-align: center; border-left: 3px solid #64ffda;">
-            <span style="color: #ccd6f6; font-weight: 500;">Docker</span>
+          <div style="background: #2a3b4c; padding: 10px; border-radius: 8px; border-left: 3px solid #4ec9b0;">
+            <span style="color: white;">Docker</span>
           </div>
         </div>
       </div>
     </div>
     
-    <!-- Column 3: Achievements (3 Layer Deep) -->
-    <div style="position: relative; width: 380px; height: 450px;">
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(12px, 12px); border: 1px solid #64ffda20; z-index: 1;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; transform: translate(6px, 6px); border: 1px solid #64ffda40; z-index: 2;"></div>
-      <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 16px; border: 1px solid #64ffda; padding: 25px; box-sizing: border-box; z-index: 3;">
-        <h3 style="color: #64ffda; font-size: 22px; margin-top: 0;">KEY ACHIEVEMENTS</h3>
-        <ul style="color: #8892b0; list-style: none; padding: 0;">
-          <li style="margin-bottom: 18px; border-left: 2px solid #64ffda; padding-left: 15px;">
-            <span style="color: #ccd6f6; font-weight: 500;">99.9% Uptime</span><br>
-            <span style="font-size: 14px;">Hybrid DR on AWS EKS (70+ microservices)</span>
-          </li>
-          <li style="margin-bottom: 18px; border-left: 2px solid #64ffda; padding-left: 15px;">
-            <span style="color: #ccd6f6; font-weight: 500;">100% Recovery</span><br>
-            <span style="font-size: 14px;">Kafka DLQ automation, 40% less manual work</span>
-          </li>
-          <li style="margin-bottom: 18px; border-left: 2px solid #64ffda; padding-left: 15px;">
-            <span style="color: #ccd6f6; font-weight: 500;">Zero Incidents</span><br>
-            <span style="font-size: 14px;">SDK compatibility across 70+ services</span>
-          </li>
-          <li style="margin-bottom: 18px; border-left: 2px solid #64ffda; padding-left: 15px;">
-            <span style="color: #ccd6f6; font-weight: 500;">25% Efficiency</span><br>
-            <span style="font-size: 14px;">PMX version upgrade improvement</span>
-          </li>
-        </ul>
+    <!-- Achievements Column -->
+    <div style="position: relative; width: 340px; height: 380px;">
+      <div style="position: absolute; width: 100%; height: 100%; background: #1e2a3a; border-radius: 18px; transform: translate(8px, 8px); z-index: 1;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #2a3b4c; border-radius: 18px; transform: translate(4px, 4px); z-index: 2;"></div>
+      <div style="position: absolute; width: 100%; height: 100%; background: #1e2f3f; border-radius: 18px; border: 2px solid #4ec9b0; padding: 25px; box-sizing: border-box; z-index: 3;">
+        <h3 style="color: #4ec9b0; margin: 0 0 20px 0;">ACHIEVEMENTS</h3>
+        <div style="color: #b0c4de;">
+          <p style="margin: 15px 0;"><span style="color: #4ec9b0;">▸</span> 99.9% uptime - AWS EKS DR (70+ services)</p>
+          <p style="margin: 15px 0;"><span style="color: #4ec9b0;">▸</span> 100% Kafka message recovery</p>
+          <p style="margin: 15px 0;"><span style="color: #4ec9b0;">▸</span> Zero-incident SDK migration</p>
+          <p style="margin: 15px 0;"><span style="color: #4ec9b0;">▸</span> 25% DevOps efficiency gain</p>
+        </div>
       </div>
     </div>
   </div>
 
-  <!-- QUATERNARY LAYER: STATS BAR (3 Layer Stack) -->
-  <div style="position: relative; width: 1200px; height: 120px; margin: 60px auto;">
-    <div style="position: absolute; width: 100%; height: 100%; background: #0a192f; border-radius: 12px; transform: translate(8px, 8px); border: 1px solid #64ffda20; z-index: 1;"></div>
-    <div style="position: absolute; width: 100%; height: 100%; background: #0a192f; border-radius: 12px; transform: translate(4px, 4px); border: 1px solid #64ffda40; z-index: 2;"></div>
-    <div style="position: absolute; width: 100%; height: 100%; background: #0a192f; border-radius: 12px; border: 1px solid #64ffda; display: flex; align-items: center; justify-content: space-around; z-index: 3;">
-      <div style="text-align: center;">
-        <span style="color: #64ffda; font-size: 28px; font-weight: 600;">70+</span>
-        <p style="color: #8892b0; margin: 5px 0 0;">Microservices</p>
-      </div>
-      <div style="text-align: center;">
-        <span style="color: #64ffda; font-size: 28px; font-weight: 600;">5+</span>
-        <p style="color: #8892b0; margin: 5px 0 0;">End-to-End Features</p>
-      </div>
-      <div style="text-align: center;">
-        <span style="color: #64ffda; font-size: 28px; font-weight: 600;">40%</span>
-        <p style="color: #8892b0; margin: 5px 0 0;">Manual Work Reduced</p>
-      </div>
-      <div style="text-align: center;">
-        <span style="color: #64ffda; font-size: 28px; font-weight: 600;">30%</span>
-        <p style="color: #8892b0; margin: 5px 0 0;">Code Efficiency ↑</p>
-      </div>
+  <!-- LAYER 4: STATS BAR - 3 LEVELS DEEP -->
+  <div style="position: relative; width: 1050px; height: 90px; margin: 50px auto;">
+    <div style="position: absolute; width: 100%; height: 100%; background: #1e2a3a; border-radius: 15px; transform: translate(6px, 6px); z-index: 1;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; background: #2a3b4c; border-radius: 15px; transform: translate(3px, 3px); z-index: 2;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; background: #1e2f3f; border-radius: 15px; border: 2px solid #4ec9b0; display: flex; align-items: center; justify-content: space-around; z-index: 3;">
+      <div><span style="color: #4ec9b0; font-size: 24px;">70+</span><br><span style="color: #b0c4de;">Microservices</span></div>
+      <div><span style="color: #4ec9b0; font-size: 24px;">100%</span><br><span style="color: #b0c4de;">Recovery Rate</span></div>
+      <div><span style="color: #4ec9b0; font-size: 24px;">40%</span><br><span style="color: #b0c4de;">Less Manual Work</span></div>
+      <div><span style="color: #4ec9b0; font-size: 24px;">30%</span><br><span style="color: #b0c4de;">Code Efficiency</span></div>
     </div>
   </div>
 
-  <!-- BOTTOM LAYER: FOOTER (3 Layer Minimal) -->
-  <div style="position: relative; width: 1200px; height: 60px; margin: 20px auto 40px;">
-    <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 8px; transform: translate(4px, 4px); opacity: 0.3; z-index: 1;"></div>
-    <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 8px; transform: translate(2px, 2px); opacity: 0.6; z-index: 2;"></div>
-    <div style="position: absolute; width: 100%; height: 100%; background: #112240; border-radius: 8px; display: flex; align-items: center; justify-content: center; z-index: 3;">
-      <p style="color: #64ffda; margin: 0; font-size: 14px;">© 2024 NIVETHA G · JAVA BACKEND ENGINEER</p>
+  <!-- LAYER 5: FOOTER - 3 LEVELS DEEP -->
+  <div style="position: relative; width: 1050px; height: 50px; margin: 30px auto;">
+    <div style="position: absolute; width: 100%; height: 100%; background: #1e2a3a; border-radius: 8px; transform: translate(4px, 4px); z-index: 1;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; background: #2a3b4c; border-radius: 8px; transform: translate(2px, 2px); z-index: 2;"></div>
+    <div style="position: absolute; width: 100%; height: 100%; background: #1e2f3f; border-radius: 8px; display: flex; align-items: center; justify-content: center; z-index: 3;">
+      <span style="color: #4ec9b0;">NIVETHA G · JAVA BACKEND ENGINEER · 2024</span>
     </div>
   </div>
 </div>
