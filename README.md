@@ -1,206 +1,180 @@
-<!-- LAYER 1: MATRIX-STYLE HEADER -->
+<!-- LAYER 1: MATRIX HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d0d0d,100:6C63FF&text=Nivetha%20G&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,100:6C63FF&text=Nivetha%20G&fontSize=45&fontColor=ffffff&desc=Backend%20Engineer&descAlignY=60&descAlign=50" />
 </div>
 
-<br/>
-<br/>
+<br><br>
 
-<!-- LAYER 2: GLOWING SOCIAL LINKS -->
+<!-- LAYER 2: SOCIAL LINKS -->
 <p align="center">
-  <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://bit.ly/nivethag-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&width=100" /></a>
+  <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&width=100" /></a>
+  <a href="https://bit.ly/nivethag-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white&width=100" /></a>
+  <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&width=100" /></a>
+  <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&width=100" /></a>
 </p>
 
-<br/>
-<br/>
+<br><br>
 
-<!-- LAYER 3: 3D CONTACT CARD -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/marker.png" width="35"/><br/><b>Chennai</b></td>
-      <td align="center" width="50"></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/phone.png" width="35"/><br/><b>+91 9344644126</b></td>
-      <td align="center" width="50"></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/email.png" width="35"/><br/><b>nivethag.dev</b></td>
-    </tr>
-  </table>
-</div>
+<!-- LAYER 3: CONTACT INFO -->
+<p align="center">
+  <code>📍 Chennai</code> &nbsp; • &nbsp; 
+  <code>📞 +91 9344644126</code> &nbsp; • &nbsp; 
+  <code>✉️ nivethag.dev@gmail.com</code>
+</p>
 
-<br/>
-<br/>
+<br><br>
 
-<!-- LAYER 4: CODE TERMINAL INTRO -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=public+class+Nivetha+%7B;++++public+static+void+main(String%5B%5D+args)+%7B;++++++++System.out.println(%22Building+scalable+systems%22);;++++%7D;%7D" alt="Code Typing" />
-</div>
+<!-- LAYER 4: DIVIDER -->
+<hr width="80%" color="#6C63FF" size="2">
 
-<br/>
-<br/>
+<br><br>
 
-<!-- LAYER 5: NEON DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</div>
-
-<br/>
-<br/>
-
-<!-- LAYER 6: ABOUT ME -->
+<!-- LAYER 5: ABOUT ME -->
 <h2 align="center">⚡ ABOUT ME</h2>
 
-<br/>
+<br>
 
-<table align="center">
+<table align="center" width="90%">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <ul>
-        <li>🚀 <b>Current:</b> Experienced Software Developer @ Amdocs</li>
-        <br/>
-        <li>⚙️ <b>Building:</b> 70+ microservices with 99.9% uptime on AWS EKS</li>
-        <br/>
+        <li>🔭 <b>Current:</b> Experienced Software Developer @ Amdocs</li>
+        <br>
+        <li>⚙️ <b>Building:</b> 70+ microservices on AWS EKS (99.9% uptime)</li>
+        <br>
         <li>📦 <b>Expertise:</b> Java, Spring Boot, Kafka, AWS, Kubernetes</li>
-        <br/>
-        <li>🎯 <b>Focus:</b> Distributed Systems, Cloud Architecture, Microservices</li>
-        <br/>
-        <li>📌 <b>Location:</b> Chennai, India</li>
+        <br>
+        <li>🎯 <b>Focus:</b> Distributed Systems, Cloud Architecture</li>
+        <br>
+        <li>📍 <b>Location:</b> Chennai, India</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 10px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" style="border-radius: 8px;">
     </td>
   </tr>
 </table>
 
-<br/>
-<br/>
+<br><br>
+
+<!-- LAYER 6: DIVIDER -->
+<hr width="80%" color="#6C63FF" size="2">
+
+<br><br>
 
 <!-- LAYER 7: TECH STACK -->
 <h2 align="center">🛠️ TECH STACK</h2>
 
-<br/>
+<br>
 
 <div align="center">
-  <h3>☕ LANGUAGES & FRAMEWORKS</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  </p>
-
-  <br/>
-
-  <h3>⚡ DISTRIBUTED SYSTEMS</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-    <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
-  </p>
-
-  <br/>
-
-  <h3>🗄️ DATABASES</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  </p>
-
-  <br/>
-
-  <h3>☁️ CLOUD & DEVOPS</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  </p>
+  <table width="90%" align="center">
+    <tr>
+      <td width="25%" valign="top"><b>Languages</b></td>
+      <td width="75%">Java • Spring Boot • Spring MVC • Hibernate</td>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td valign="top"><b>Distributed</b></td>
+      <td>Microservices • Apache Kafka • REST APIs</td>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td valign="top"><b>Databases</b></td>
+      <td>Couchbase • PostgreSQL • MySQL • Elasticsearch</td>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td valign="top"><b>Cloud & DevOps</b></td>
+      <td>AWS • Docker • Kubernetes • Jenkins • Grafana</td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-<br/>
+<br><br>
 
-<!-- LAYER 8: ACHIEVEMENTS -->
+<!-- LAYER 8: DIVIDER -->
+<hr width="80%" color="#6C63FF" size="2">
+
+<br><br>
+
+<!-- LAYER 9: ACHIEVEMENTS -->
 <h2 align="center">🏆 ACHIEVEMENTS</h2>
 
-<br/>
+<br>
 
 <div align="center">
-  <table>
+  <table width="80%" align="center">
+    <tr align="center">
+      <td width="33%"><b>99.9% Uptime</b><br><small>70+ microservices</small></td>
+      <td width="33%"><b>100% Recovery</b><br><small>Kafka DLQ Automation</small></td>
+      <td width="33%"><b>40% Efficiency</b><br><small>DevOps Improvement</small></td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<!-- LAYER 10: DIVIDER -->
+<hr width="80%" color="#6C63FF" size="2">
+
+<br><br>
+
+<!-- LAYER 11: GITHUB STATS -->
+<h2 align="center">📊 GITHUB STATS</h2>
+
+<br>
+
+<div align="center">
+  <table width="90%" align="center">
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/medal.png" width="40"/>
-        <br/>
-        <b>99.9% Uptime</b>
-        <br/>
-        <sub>70+ microservices</sub>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&width=400" width="400"/>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/kafka.png" width="40"/>
-        <br/>
-        <b>100% Recovery</b>
-        <br/>
-        <sub>Kafka DLQ Automation</sub>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&width=400" width="400"/>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/kubernetes.png" width="40"/>
-        <br/>
-        <b>40% Efficiency</b>
-        <br/>
-        <sub>DevOps Improvement</sub>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&width=400" width="400"/>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-<br/>
+<br><br>
 
-<!-- LAYER 9: GITHUB STATS -->
-<h2 align="center">📊 GITHUB STATS</h2>
+<!-- LAYER 12: DIVIDER -->
+<hr width="80%" color="#6C63FF" size="2">
 
-<br/>
+<br><br>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-</div>
-
-<br/>
-<br/>
-
-<!-- LAYER 10: CONNECT -->
+<!-- LAYER 13: CONNECT -->
 <h2 align="center">📫 CONNECT</h2>
 
-<br/>
+<br>
 
 <div align="center">
-  <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="https://bit.ly/nivethag-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <table width="80%" align="center">
+    <tr align="center">
+      <td><a href="https://bit.ly/nivethag-linkdin">LinkedIn</a></td>
+      <td><a href="https://github.com/Nivi842">GitHub</a></td>
+      <td><a href="https://www.instagram.com/nivetha_.g_/">Instagram</a></td>
+      <td><a href="https://bit.ly/nivethag-portfolio">Portfolio</a></td>
+      <td><a href="mailto:nivethag.dev@gmail.com">Gmail</a></td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-<br/>
-<br/>
+<br><br>
+<br><br>
 
-<!-- LAYER 11: FOOTER -->
+<!-- LAYER 14: FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nivi842&label=PROFILE+VIEWS&color=6C63FF&style=flat-square" />
-  <br/>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=120&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=Nivi842&label=Profile%20Views&color=6C63FF&style=flat-square" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=100&section=footer" />
 </div>
