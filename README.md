@@ -1,204 +1,259 @@
-<!-- LAYER 1: HEADER -->
 <div align="center">
-  <h1>Nivetha G</h1>
-  <p><b>Backend Software Engineer</b> • Java • Spring Boot • Microservices</p>
   
-  <p>
-    <img src="https://img.shields.io/badge/Joined%20GitHub-4%20years%20ago-6C63FF?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Followers-31-6C63FF?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Following-19-6C63FF?style=flat-square"/>
-  </p>
-
-  <p>
-    <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    <a href="https://nivetha-g-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-    <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-    <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nivetha%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   
-  <p><b>📍 Chennai</b> • <b>📞 +91 9344644126</b> • <b>✉️ nivethag.dev@gmail.com</b></p>
 </div>
 
----
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+  
+</div>
 
-<!-- LAYER 2: MAIN METRICS GRID -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub Metrics</h3>
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="60%">Repositories</td><td width="40%"><b>19</b></td></tr>
-        <tr><td>Stars</td><td><b>147</b></td></tr>
-        <tr><td>Forks</td><td><b>16</b></td></tr>
-        <tr><td>Watches</td><td><b>23</b></td></tr>
-        <tr><td>Releases</td><td><b>32</b></td></tr>
-        <tr><td>Packages</td><td><b>1</b></td></tr>
-        <tr><td>Storage used</td><td><b>1.82 GB</b></td></tr>
-        <tr><td>License</td><td><b>MIT</b></td></tr>
-      </table>
-
-      <h3>⚡ Commit Stats</h3>
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="60%">Current streak</td><td width="40%"><b>2 days</b></td></tr>
-        <tr><td>Avg commits/day</td><td><b>~3.82</b></td></tr>
-        <tr><td>Lines added</td><td><b>1.52M</b></td></tr>
-        <tr><td>Lines removed</td><td><b>379K</b></td></tr>
-      </table>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🚀 Portfolio Performance</h3>
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="60%">Performance</td><td width="40%"><b>97 ⭐</b></td></tr>
-        <tr><td>Accessibility</td><td><b>100 ✅</b></td></tr>
-        <tr><td>Best Practices</td><td><b>100 ✅</b></td></tr>
-        <tr><td>SEO</td><td><b>100 ✅</b></td></tr>
-      </table>
-
-      <h3>🏆 Profile Stats</h3>
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="60%">Developer Program</td><td width="40%"><b>Member</b></td></tr>
-        <tr><td>Contributed to</td><td><b>5 repositories</b></td></tr>
-        <tr><td>Sponsor</td><td><b>0</b></td></tr>
-        <tr><td>Last updated</td><td><b>&lt;1 day ago</b></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- LAYER 3: LANGUAGE METRICS -->
-<h3>📈 Most Used Languages</h3>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="40%">Java</td><td width="60%">■■■■■■■■■■ 45%</td></tr>
-        <tr><td>Python</td><td>■■■■■■■■ 35%</td></tr>
-        <tr><td>TypeScript</td><td>■■■■ 15%</td></tr>
-        <tr><td>JavaScript</td><td>■■ 5%</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- LAYER 4: MASTERED TECHNOLOGIES -->
-<h3>🎯 Mastered Technologies</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://nivetha-g-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- LAYER 5: COMMIT ACTIVITY PATTERNS -->
-<h3>⏰ Coding Habits & Recent Activity</h3>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<table width="100%">
+```typescript
+const Nivetha = {
+    title: "Backend Software Engineer",
+    location: "Chennai, Tamil Nadu 📍",
+    focus: ["Microservices", "Distributed Systems", "Cloud Architecture"],
+    currentlyLearning: ["Advanced Kubernetes Patterns", "System Design at Scale"],
+    experience: {
+        microservices: "70+ in production",
+        uptime: "99.9%",
+        specialization: "Event-Driven Architecture"
+    },
+    askMeAbout: ["Java", "Spring Boot", "Kafka", "AWS", "Docker", "Kubernetes"],
+    funFact: "I debug production issues faster than I solve coding puzzles! 🐛"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 💡 **Backend Excellence**
+- Design & implement scalable microservices
+- Event-driven architecture with Kafka
+- RESTful API development & optimization
+- Database design & performance tuning
+
+</td>
+<td width="50%">
+
+### ☁️ **Cloud & DevOps**
+- AWS cloud infrastructure (EKS, EC2, RDS, S3)
+- Container orchestration (Docker, Kubernetes)
+- CI/CD pipelines & automation
+- Production monitoring & debugging
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🔥 Core Technologies</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💾 Databases</b></summary>
+<br>
+
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Professional Journey
+
+<details open>
+<summary><b>🏢 Amdocs India Private Ltd</b> • <i>Experienced Software Developer</i> • Aug 2023 – Sep 2025</summary>
+<br>
+
+| Achievement | Impact |
+|-------------|--------|
+| 🏗️ **Disaster Recovery Architecture** | Designed hybrid DR solution on AWS EKS for 70+ microservices with 99.9% uptime |
+| ⚡ **Kafka DLQ Automation** | Achieved 100% message recovery, reduced manual intervention by 40% |
+| 🔧 **SDK Compatibility** | Led initiative across 70+ services with zero production incidents |
+| 📊 **Database Migrations** | Integrated Liquibase across 6+ environments, eliminated manual scripts |
+| 🐛 **Quality Improvements** | Reduced production bugs by 20% through comprehensive testing |
+
+</details>
+
+<details>
+<summary><b>🏢 OpalMinds IT Solution</b> • <i>Contract Software Engineer</i> • Nov 2025 – Dec 2025</summary>
+<br>
+
+- ☁️ Built cloud-native microservices for import/export permit automation
+- 🔐 Implemented role-based access control with secure request tracking
+- 🔄 Designed XML transformation layer for SDK integration
+- 📈 Deployed AWS infrastructure with centralized monitoring
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&langs_count=8" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements Unlocked
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nivi842&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</p>
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4>Commit Activity by Time of Day</h4>
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="50%">🌙 Night (12AM-6AM)</td><td width="50%">■■■■ 15%</td></tr>
-        <tr><td>☀️ Morning (6AM-12PM)</td><td>■■■■■■■■ 35%</td></tr>
-        <tr><td>☕ Afternoon (12PM-6PM)</td><td>■■■■■■■■■■ 45%</td></tr>
-        <tr><td>🌆 Evening (6PM-12AM)</td><td>■ 5%</td></tr>
-      </table>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/server.png" width="60"/>
+      <br><b>70+ Microservices</b>
+      <br>in Production
     </td>
-    <td width="50%" valign="top">
-      <h4>Commit Activity by Day</h4>
-      <table width="100%" border="1" style="border-collapse: collapse;">
-        <tr><td width="50%">Monday</td><td width="50%">■■■■■■■■ 30%</td></tr>
-        <tr><td>Tuesday</td><td>■■■■■■■■ 30%</td></tr>
-        <tr><td>Wednesday</td><td>■■■■■■■■■ 35%</td></tr>
-        <tr><td>Thursday</td><td>■■■■■■■■ 30%</td></tr>
-        <tr><td>Friday</td><td>■■■■■■ 20%</td></tr>
-        <tr><td>Weekend</td><td>■■ 5%</td></tr>
-      </table>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/uptime.png" width="60"/>
+      <br><b>99.9% Uptime</b>
+      <br>Achieved
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/development-skill.png" width="60"/>
+      <br><b>30% Efficiency</b>
+      <br>Improvement
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/bug.png" width="60"/>
+      <br><b>20% Fewer Bugs</b>
+      <br>in Production
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- LAYER 6: ROADMAP & TODOS -->
-<h3>🗺️ Roadmap & Todos</h3>
+## 💡 Core Expertise
 
-<table width="100%" border="1" style="border-collapse: collapse;">
-  <tr>
-    <td width="33%" align="center" bgcolor="#e6ffe6"><b>✅ 19 done</b></td>
-    <td width="33%" align="center" bgcolor="#ffffe6"><b>🔄 1 doing</b></td>
-    <td width="33%" align="center" bgcolor="#ffe6e6"><b>📝 8 todo</b></td>
-  </tr>
+```mermaid
+mindmap
+  root((Nivetha G))
+    Backend Engineering
+      Java & Spring Boot
+      Microservices
+      RESTful APIs
+      Design Patterns
+    Distributed Systems
+      Apache Kafka
+      Event-Driven
+      Async Processing
+      Fault Tolerance
+    Cloud & DevOps
+      AWS Infrastructure
+      Docker & K8s
+      CI/CD Pipelines
+      Monitoring
+    Performance
+      Multithreading
+      Transaction Mgmt
+      Performance Tuning
+      Load Optimization
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm passionate about building robust backend systems and always open to interesting conversations about:
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br>
+  <b>Open Source</b><br>
+  Contributing to projects
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/chat.png" width="50"/><br>
+  <b>System Design</b><br>
+  Architecture discussions
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/rocket.png" width="50"/><br>
+  <b>Opportunities</b><br>
+  Backend roles
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
+  <b>Tech Talks</b><br>
+  Knowledge sharing
+</td>
+</tr>
 </table>
 
-<br/>
+<p align="center">
+  📧 <b>Email:</b> nivethag.dev@gmail.com<br>
+  🌐 <b>Portfolio:</b> <a href="https://nivetha-g-dev-portfolio.vercel.app/">nivetha-g-dev-portfolio.vercel.app</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">Connect with me</a>
+</p>
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h4>✅ Completed</h4>
-      <ul>
-        <li>Hybrid DR on AWS EKS</li>
-        <li>Kafka DLQ Automation</li>
-        <li>SDK Compatibility</li>
-        <li>PMX Version Upgrade</li>
-        <li>Liquibase Integration</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h4>🔄 In Progress</h4>
-      <ul>
-        <li>Kubernetes Certification</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h4>📝 Planned</h4>
-      <ul>
-        <li>Open Source Contribution</li>
-        <li>Tech Blog</li>
-        <li>Speaking at Conf</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-<!-- LAYER 7: CONTRIBUTIONS CALENDAR -->
-<h3>📅 Contributions Calendar</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi842&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=6C63FF&line=6C63FF" width="100%"/>
-
----
-
-<!-- LAYER 8: FOOTER METRICS -->
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Developer%20Program-Member-6C63FF?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Updated-less%20than%201%20day%20ago-6C63FF?style=flat-square"/>
-  </p>
   
-  <p>
-    <img src="https://profile-counter.glitch.me/Nivi842/count.svg" width="200"/>
-  </p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=Nivi842&style=for-the-badge&color=blueviolet)
   
-  <p><b>https://metrics.lecoq.io/about/Nivi842</b></p>
-  <p><i>Last updated: March 2025</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  <b>⭐️ If you find my work interesting, feel free to star my repositories!</b>
+  
 </div>
