@@ -1,111 +1,68 @@
-<h1 align="center">
-Hi 👋 I'm Nivetha
-</h1>
-
-<h3 align="center">
-Backend Software Engineer | Java | Microservices | Cloud
-</h3>
+<h1 align="center">👩‍💻 Nivetha G | Backend Sorceress</h1>
+<h3 align="center">Crafting Scalable Microservices | Java & Spring Boot Enthusiast | Woman in Tech</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Docker+%7C+Kubernetes;Building+Scalable+Systems;Future+FAANG+Engineer" />
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200"/>
 </p>
 
 ---
 
-# 🚀 About Me
+### 🔹 About Me
+Hey there! I’m **Nivetha**, a passionate **Backend Software Engineer** on a quest to transform complex problems into elegant solutions. I breathe life into microservices, dance with Kafka streams, and orchestrate containers with Docker & Kubernetes.  
+I’m a proud **woman in tech**, championing clean code, scalable architecture, and continuous learning.  
 
-- 💻 Backend Software Engineer
-- ☕ Specializing in **Java, Spring Boot, Microservices**
-- ⚡ Experienced with **Kafka, Docker, Kubernetes**
-- 🔍 Passionate about **building scalable backend systems**
-- 📚 Currently improving **DSA & System Design**
-- 🎯 Goal: **Work in top product companies (FAANG)**
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
-
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-</p>
-
-### DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-</p>
+- 💼 **Current Playground:** Java, Spring Boot, Microservices, Kafka, Elasticsearch, Couchbase  
+- 🌱 **Learning Expedition:** AI-Augmented Software Development & Problem-Solving Patterns  
+- ⚡ **Fun Fact:** I believe debugging is like solving a thrilling mystery 🕵️‍♀️  
 
 ---
 
-# 📈 GitHub Stats
+### 🔹 My Arsenal
+| Backend | Databases | Tools & DevOps |  
+| --- | --- | --- |  
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Couchbase](https://img.shields.io/badge/Couchbase-0052CC?style=for-the-badge&logo=couchbase&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |  
+| ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
 
+---
+
+### 🔹 Connect with Me
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=tokyonight"/>
-
+  <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/nivetha_.g_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://nivetha-g-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
+### 🔹 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Nivi842&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
+### 🔹 Fun Animated Section
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nivi842/Nivi842/output/github-contribution-grid-snake.svg"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Nivi842">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-💡 *I enjoy debugging complex systems and building scalable backend architectures.*
+### ✨ Quote That Inspires Me
+> "The question isn’t who is going to let me; it’s who is going to stop me."  
+> — **Ayn Rand**
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories!
+  <em>Backend Engineering | Microservices | AI Learning | Always Curious 🚀</em>
 </p>
