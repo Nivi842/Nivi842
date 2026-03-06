@@ -1,41 +1,45 @@
-<h1 align="center">👩‍💻 Nivetha G | Backend Sorceress</h1>
-<h3 align="center">Crafting Scalable Microservices | Java & Spring Boot Enthusiast | Woman in Tech</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/L0F4TgJYQTxr0/giphy.gif" width="300"/>
+</p>
+
+<h1 align="center" style="color:#00ffff;">Nivetha G | Backend Engineer</h1>
+<h3 align="center" style="color:#c0c0c0;">🔹 Java | Spring Boot | Microservices | Kafka | Docker | Kubernetes 🔹</h3>
+
+---
+
+### 💻 About Me
+I’m **Nivetha**, a backend engineer who crafts **scalable microservices** and **resilient distributed systems**. I live in the world of **code, APIs, and real-time data flows**. Proud to be a **woman in tech**, I bring creativity and precision to backend architecture.  
+
+- 🚀 **Expertise:** Java, Spring Boot, Microservices, Kafka, Elasticsearch, Couchbase  
+- 🛠 **DevOps:** Docker, Kubernetes, Jenkins, CI/CD pipelines  
+- 🌱 **Exploring:** AI-powered backend automation & distributed system optimizations  
+- 🎯 **Goal:** Write elegant, high-performance backend systems that scale  
+
+---
+
+### 🔹 Tech Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Couchbase-0052CC?style=for-the-badge&logo=couchbase&logoColor=white"/>
 </p>
 
 ---
 
-### 🔹 About Me
-Hey there! I’m **Nivetha**, a passionate **Backend Software Engineer** on a quest to transform complex problems into elegant solutions. I breathe life into microservices, dance with Kafka streams, and orchestrate containers with Docker & Kubernetes.  
-I’m a proud **woman in tech**, championing clean code, scalable architecture, and continuous learning.  
-
-- 💼 **Current Playground:** Java, Spring Boot, Microservices, Kafka, Elasticsearch, Couchbase  
-- 🌱 **Learning Expedition:** AI-Augmented Software Development & Problem-Solving Patterns  
-- ⚡ **Fun Fact:** I believe debugging is like solving a thrilling mystery 🕵️‍♀️  
-
----
-
-### 🔹 My Arsenal
-| Backend | Databases | Tools & DevOps |  
-| --- | --- | --- |  
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Couchbase](https://img.shields.io/badge/Couchbase-0052CC?style=for-the-badge&logo=couchbase&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |  
-| ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
-
----
-
-### 🔹 Connect with Me
+### 🔹 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/nivetha_.g_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://nivetha-g-dev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
 </p>
 
@@ -43,26 +47,26 @@ I’m a proud **woman in tech**, championing clean code, scalable architecture, 
 
 ### 🔹 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-### 🔹 Fun Animated Section
+### 🔹 Cyberpunk Neon Animations
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250"/>
 </p>
 
 ---
 
-### ✨ Quote That Inspires Me
-> "The question isn’t who is going to let me; it’s who is going to stop me."  
-> — **Ayn Rand**
+### ✨ Motto
+> "Code with precision, scale with passion, automate with intelligence."  
+> 💻 Backend | Microservices | AI Exploration
 
 ---
 
 <p align="center">
-  <em>Backend Engineering | Microservices | AI Learning | Always Curious 🚀</em>
+  <em style="color:#00ffff;">Building the backend of tomorrow, one microservice at a time 🌌</em>
 </p>
