@@ -8,7 +8,7 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://bit.ly/nivethag-linkdin">
+  <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
 
@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://bit.ly/nivethag-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" height="35"/>
   </a>
 
   <a href="https://www.instagram.com/nivetha_.g_/">
@@ -34,7 +34,7 @@
 
 <!-- CONTACT -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Chennai-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Location-Chennai-6C63FF?style=for-the-badge&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Email-nivethag.dev@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </p>
 
@@ -50,11 +50,7 @@
 <br>
 
 <!-- ABOUT -->
-<h1 align="center">
-<img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="40">
-ABOUT ME
-<img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQG2EzP/giphy.gif" width="40">
-</h1>
+<h1 align="center">ABOUT ME</h1>
 
 <br>
 
@@ -64,27 +60,27 @@ ABOUT ME
 
 <td width="60%" valign="top">
 
-<h3>⚡ Backend Software Engineer</h3>
+<h3>Backend Software Engineer</h3>
 
 <ul>
 
-<li>🔭 <b>Currently:</b> Software Developer at Amdocs</li>
+<li><b>Currently:</b> Building scalable microservices & distributed systems</li>
 
 <br>
 
-<li>⚙️ <b>Building:</b> Scalable microservices with high availability</li>
+<li><b>Building:</b> High-performance backend services with 99.9% uptime</li>
 
 <br>
 
-<li>📦 <b>Expertise:</b> Java • Spring Boot • Kafka • AWS • Kubernetes</li>
+<li><b>Expertise:</b> Java • Spring Boot • Kafka • AWS • Kubernetes</li>
 
 <br>
 
-<li>🎯 <b>Focus:</b> Distributed Systems • Cloud Architecture • Microservices</li>
+<li><b>Focus:</b> Distributed Systems • Cloud Architecture • Microservices</li>
 
 <br>
 
-<li>📍 <b>Location:</b> Chennai, India</li>
+<li><b>Location:</b> Chennai, India</li>
 
 </ul>
 
@@ -92,7 +88,7 @@ ABOUT ME
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
 </td>
 
@@ -119,50 +115,38 @@ ABOUT ME
 
 <div align="center">
 
-### ☕ Languages & Frameworks
+### Languages & Frameworks
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
 <br><br>
 
-### ⚡ Distributed Systems
+### Distributed Systems
 
-<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=spring&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
-### 🗄️ Databases
+### Databases
 
 <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
 <br><br>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 </div>
@@ -172,15 +156,17 @@ ABOUT ME
 
 <!-- ACHIEVEMENTS -->
 
-<h1 align="center">🏆 KEY ACHIEVEMENTS</h1>
+<h1 align="center">KEY ACHIEVEMENTS</h1>
 
 <div align="center">
 
 | Achievement | Impact |
 |-------------|--------|
-| ⚡ High Availability Systems | Built scalable backend services |
-| 🚀 Microservices Architecture | Developed distributed backend services |
-| ⚙️ DevOps Improvements | Optimized CI/CD pipelines |
+| High Availability Systems | 99.9% uptime across 70+ microservices |
+| Kafka DLQ Automation | 100% message recovery with retry mechanisms |
+| DevOps Optimization | 25% efficiency improvement in CI/CD pipelines |
+| Production Reliability | 20% reduction in production bugs |
+| AI-Powered Development | 30% coding efficiency boost |
 
 </div>
 
@@ -189,7 +175,7 @@ ABOUT ME
 
 <!-- GITHUB STATS -->
 
-<h1 align="center">📊 GITHUB ANALYTICS</h1>
+<h1 align="center">GITHUB ANALYTICS</h1>
 
 <br>
 
@@ -199,11 +185,11 @@ ABOUT ME
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivi842&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 
 </div>
 
@@ -218,11 +204,11 @@ ABOUT ME
 
 <br><br>
 
-<img src="https://profile-counter.glitch.me/Nivi842/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=Nivi842&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
 
 <br><br>
 
-<h3>✨ Thanks for visiting! Let's build something amazing together ✨</h3>
+<h3>Thanks for visiting! Let's build something amazing together</h3>
 
 <br>
 
