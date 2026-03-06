@@ -1,66 +1,120 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Nivetha+G;Backend+Engineer;Microservices+Architect;Cloud+Native+Developer" alt="Typing SVG" />
+</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Nivetha%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
 
-<h3>Backend Engineer • Building Scalable Systems</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nivethag.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://bit.ly/nivethag-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nivetha_.g_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha-g-b287871b9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://bit.ly/nivethag-portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivethag.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nivetha_.g_/)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
+## 🙋‍♀️ About Me
 
-<br/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 What I Do
+<br clear="right"/>
 
-Building high-performance microservices and distributed systems. Currently working with **70+ microservices** in production, focusing on scalability, reliability, and clean architecture.
+## 🚀 Tech Stack
 
-<br/>
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=a4aacb&icon_color=ce09ec" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=a4aacb" />
-
-<br/>
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nivi842&theme=radical&hide_border=true&background=0d1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-## 💡 Quick Facts
-
-- 🔭 Working on **Microservices Architecture** and **Event-Driven Systems**
-- 🌱 Learning **System Design** and **Advanced Kubernetes**
-- 💬 Ask me about **Java, Spring Boot, Kafka, AWS**
-- ⚡ Fun fact: Achieved **99.9% uptime** across 70+ microservices
-
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,aws,kubernetes,docker,postgres,elasticsearch,git,jenkins,maven,linux&perline=6" />
+</p>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Nivi842&color=blueviolet&style=flat-square)
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### 💾 Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
 
 </div>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nivi842&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi842&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nivi842&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+## 💼 What I'm Working On
+
+```diff
++ 🔨 Building scalable microservices with Java & Spring Boot
++ ☁️ Architecting cloud-native solutions on AWS
++ 🎯 Managing 70+ microservices in production
++ 📊 Achieving 99.9% uptime with automated failover systems
++ 🚀 Implementing event-driven architecture with Kafka
++ 📈 Optimizing system performance & reliability
+```
+
+## 🌟 Fun Facts
+
+- 🎯 Maintained **99.9% uptime** across 70+ microservices
+- 📨 Achieved **100% message recovery** with Kafka DLQ automation
+- ⚡ Improved DevOps efficiency by **25%**
+- 🤖 Boosted coding efficiency by **30%** using AI tools
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="mailto:nivethag.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://bit.ly/nivethag-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+  </a>
+  <a href="https://www.instagram.com/nivetha_.g_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nivi842&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=6,11,20" />
+</p>
