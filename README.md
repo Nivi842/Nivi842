@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </p>
 
 <p align="center">
@@ -21,11 +25,37 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 ## 🙋‍♀️ About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```python
+class BackendEngineer:
+    def __init__(self):
+        self.name = "Nivetha G"
+        self.location = "Chennai, India 🇮🇳"
+        self.role = "Backend Software Engineer"
+        
+    def get_skills(self):
+        return {
+            'languages': ['Java', 'SQL'],
+            'frameworks': ['Spring Boot', 'Hibernate'],
+            'cloud': ['AWS', 'Kubernetes', 'Docker'],
+            'messaging': ['Apache Kafka'],
+            'databases': ['PostgreSQL', 'Elasticsearch']
+        }
+    
+    def current_focus(self):
+        return [
+            "Building scalable microservices ⚡",
+            "Event-driven architecture 🎯",
+            "Cloud-native applications ☁️"
+        ]
+```
 
 <br clear="right"/>
 
@@ -56,16 +86,23 @@
 
 </div>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nivi842&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi842&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -74,38 +111,58 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nivi842&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ## 💼 What I'm Working On
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300">
+</p>
 
 ```diff
 + 🔨 Building scalable microservices with Java & Spring Boot
 + ☁️ Architecting cloud-native solutions on AWS
 + 🎯 Managing 70+ microservices in production
-+ 📊 Achieving 99.9% uptime with automated failover systems
++ 📊 Achieving 99.9% uptime with automated systems
 + 🚀 Implementing event-driven architecture with Kafka
 + 📈 Optimizing system performance & reliability
 ```
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ## 🌟 Fun Facts
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+</p>
 
 - 🎯 Maintained **99.9% uptime** across 70+ microservices
 - 📨 Achieved **100% message recovery** with Kafka DLQ automation
 - ⚡ Improved DevOps efficiency by **25%**
 - 🤖 Boosted coding efficiency by **30%** using AI tools
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nivethag.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://bit.ly/nivethag-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nivetha_.g_/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -113,7 +170,9 @@
   <img src="https://komarev.com/ghpvc/?username=Nivi842&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=6,11,20" />
