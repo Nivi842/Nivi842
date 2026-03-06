@@ -187,23 +187,6 @@
 <br>
 <br>
 
-<!-- LAYER 10: CONNECT SECTION -->
-<h1 align="center">📫 LET'S CONNECT</h1>
-
-<br>
-
-<div align="center">
-  <a href="https://bit.ly/nivethag-linkdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
-  <a href="https://github.com/Nivi842"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/></a>
-  <a href="https://www.instagram.com/nivetha_.g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/></a>
-  <a href="https://bit.ly/nivethag-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" height="45"/></a>
-  <a href="mailto:nivethag.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
-</div>
-
-<br>
-<br>
-<br>
-
 <!-- LAYER 11: FOOTER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
