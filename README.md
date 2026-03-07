@@ -10,10 +10,6 @@
 </p>
 
 <br>
-
-<br>
-<br>
-
 <!-- ABOUT SECTION -->
 <table align="center" width="95%">
 <tr>
