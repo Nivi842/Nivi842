@@ -166,8 +166,6 @@ const developer = {
 
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6ec7&icon_color=00d9ff&text_color=b794f6&ring_color=ff6ec7"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6ec7&text_color=b794f6"/>
 
 <br><br>
 
@@ -180,9 +178,6 @@ const developer = {
 </div>
 
 <br>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 <br>
 
 <!-- ACTIVITY -->
