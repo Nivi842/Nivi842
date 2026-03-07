@@ -6,7 +6,7 @@
 
 <!-- NEON TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=💻+Building+Scalable+Systems+%7C+70%2B+Microservices;☁️+Cloud+Architecture+%7C+Java+•+Spring+Boot+•+Kafka;⚡+99.9%25+Uptime+%7C+Distributed+Systems+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=💻+Backend+Engineer+%7C+System+Architect;🚀+70%2B+Microservices+in+Production;⚡+Java+•+Spring+Boot+•+Kafka+•+AWS" alt="Typing SVG" />
 </p>
 
 <br>
