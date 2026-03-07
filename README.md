@@ -12,25 +12,6 @@
 
 <br>
 
-<!-- SOCIAL LINKS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff6ec7?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a&borderColor=ff6ec7" height="30"/>
-  </a>
-  <a href="https://github.com/Nivi842">
-    <img src="https://img.shields.io/badge/GitHub-00d9ff?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
-  </a>
-  <a href="https://bit.ly/nivethag-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-b794f6?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/nivetha_.g_/">
-    <img src="https://img.shields.io/badge/Instagram-ff6ec7?style=for-the-badge&logo=instagram&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
-  </a>
-  <a href="mailto:nivethag.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
-  </a>
-</p>
-
 <br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
