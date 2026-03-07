@@ -53,7 +53,8 @@ const developer = {
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://share.google/V95P3I1LOjXZN4akw" width="100%">
+<img src="<img width="4872" height="4847" alt="image" src="https://github.com/user-attachments/assets/f5985fbe-6b0a-432c-9889-c820689552e9" />
+" width="100%">
 
 <br>
 
