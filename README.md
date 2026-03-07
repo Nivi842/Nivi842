@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,14,16,18,20&text=NIVETHA%20G&fontSize=65&fontColor=ff6ec7&animation=twinkling&desc=⚡%20Backend%20Engineer%20⚡%20Code%20Architect%20⚡&descAlignY=65&descSize=18" />
-
 </div>
 
 <!-- NEON TYPING -->
@@ -172,8 +170,6 @@ const developer = {
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nivi842&theme=synthwave&hide_border=true&background=0a0a0a&ring=ff6ec7&fire=00d9ff&currStreakLabel=ff6ec7&sideLabels=b794f6"/>
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nivi842&theme=discord&no-frame=true&no-bg=true&column=7&row=1"/>
 
 </div>
 
