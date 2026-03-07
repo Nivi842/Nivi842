@@ -166,8 +166,6 @@
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Nivi842&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
