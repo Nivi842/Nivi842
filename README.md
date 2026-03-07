@@ -64,7 +64,7 @@ const developer = {
 </table>
 
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://64.media.tumblr.com/a9e2ca6dce40d9f0aed757fe7cc134a3/2c0add43f8a95764-67/s1280x1920/331ede8b23f635d3149d0a176958861d671f68f2.gifv"/>
 <br>
 
 <!-- TECH STACK -->
