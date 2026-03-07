@@ -53,7 +53,7 @@ const developer = {
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://share.google/V95P3I1LOjXZN4akw" width="100%">
 
 <br>
 
@@ -64,7 +64,7 @@ const developer = {
 </table>
 
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://64.media.tumblr.com/a9e2ca6dce40d9f0aed757fe7cc134a3/2c0add43f8a95764-67/s1280x1920/331ede8b23f635d3149d0a176958861d671f68f2.gifv"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <br>
 
 <!-- TECH STACK -->
