@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,14,16,18,20&text=NIVETHA%20G&fontSize=65&fontColor=ff6ec7&animation=twinkling&desc=⚡%20Backend%20Engineer%20⚡%20Code%20Architect%20⚡&descAlignY=65&descSize=18" />
 </div>
 
 <!-- NEON TYPING -->
