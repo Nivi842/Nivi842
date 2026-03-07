@@ -46,6 +46,7 @@
 
 <h2>⚡ SYSTEM INFO</h2>
 
+```javascript
 const developer = {
   name: "Nivetha G",
   role: "Backend Engineer",
@@ -68,6 +69,7 @@ const developer = {
   
   currentMission: "Building resilient distributed systems"
 };
+```
 
 <br>
 
