@@ -28,14 +28,6 @@
 <br>
 <br>
 
-<!-- DIVIDER -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="95%">
-</div>
-
-<br>
-<br>
-
 <!-- ABOUT -->
 <h1 align="center">ABOUT ME</h1>
 
