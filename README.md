@@ -1,83 +1,86 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=280&section=header&text=Nivetha%20G&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=52&descSize=22" />
+<!-- CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,14,16,18,20&text=NIVETHA%20G&fontSize=65&fontColor=ff6ec7&animation=twinkling&desc=⚡%20Backend%20Engineer%20⚡%20Code%20Architect%20⚡&descAlignY=65&descSize=18" />
 
 </div>
 
-<!-- TYPING EFFECT -->
+<!-- NEON TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Microservices+Architecture;Cloud+Native+Solutions;Event-Driven+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=💻+Building+Scalable+Systems+%7C+70%2B+Microservices;☁️+Cloud+Architecture+%7C+Java+•+Spring+Boot+•+Kafka;⚡+99.9%25+Uptime+%7C+Distributed+Systems+Expert" />
 </p>
 
 <br>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff6ec7?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a&borderColor=ff6ec7" height="30"/>
   </a>
   <a href="https://github.com/Nivi842">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/GitHub-00d9ff?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
   </a>
   <a href="https://bit.ly/nivethag-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=react&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Portfolio-b794f6?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
   </a>
   <a href="https://www.instagram.com/nivetha_.g_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Instagram-ff6ec7?style=for-the-badge&logo=instagram&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
   </a>
   <a href="mailto:nivethag.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a" height="30"/>
   </a>
 </p>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br>
 
 <!-- ABOUT SECTION -->
-<div align="center">
-
-## 💫 About Me
-
-</div>
-
-<table align="center" width="90%">
+<table align="center" width="95%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <br>
 
-```yaml
-name: Nivetha G
-role: Backend Software Engineer
-location: Chennai, India
+<h2>⚡ SYSTEM INFO</h2>
 
-expertise:
-  - Microservices Architecture
-  - Event-Driven Systems
-  - Cloud Native Development
+```javascript
+const developer = {
+  name: "Nivetha G",
+  role: "Backend Engineer",
+  location: "Chennai, India 🇮🇳",
   
-tech_stack:
-  backend: Java, Spring Boot
-  messaging: Apache Kafka
-  cloud: AWS, Kubernetes, Docker
-  databases: PostgreSQL, Elasticsearch
+  skills: {
+    languages: ["Java", "SQL", "Python"],
+    backend: ["Spring Boot", "Microservices", "REST APIs"],
+    cloud: ["AWS", "Kubernetes", "Docker"],
+    messaging: ["Apache Kafka", "Event-Driven"],
+    databases: ["PostgreSQL", "Elasticsearch", "Couchbase"]
+  },
   
-metrics:
-  uptime: 99.9%
-  microservices: 70+
-  recovery_rate: 100%
+  stats: {
+    microservices: 70,
+    uptime: "99.9%",
+    recovery: "100%",
+    efficiency: "+30%"
+  },
+  
+  currentMission: "Building resilient distributed systems"
+};
 ```
 
 <br>
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=signal&logoColor=0a0a0a&labelColor=0a0a0a"/>
 
 </td>
 </tr>
@@ -85,14 +88,14 @@ metrics:
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br>
 
 <!-- TECH STACK -->
 <div align="center">
 
-## 🛠️ Tech Stack
+<h2>🔮 TECH ARSENAL</h2>
 
 <br>
 
@@ -100,71 +103,94 @@ metrics:
 
 <br><br>
 
-**Languages & Frameworks**
+**BACKEND**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff6ec7?style=for-the-badge&logo=openjdk&logoColor=0a0a0a)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00d9ff?style=for-the-badge&logo=springboot&logoColor=0a0a0a)
+![Hibernate](https://img.shields.io/badge/Hibernate-b794f6?style=for-the-badge&logo=hibernate&logoColor=0a0a0a)
+![Microservices](https://img.shields.io/badge/Microservices-ff6ec7?style=for-the-badge&logoColor=0a0a0a)
 
-**Cloud & DevOps**
+**CLOUD & DEVOPS**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-00d9ff?style=for-the-badge&logo=amazonaws&logoColor=0a0a0a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-b794f6?style=for-the-badge&logo=kubernetes&logoColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-ff6ec7?style=for-the-badge&logo=docker&logoColor=0a0a0a)
+![Jenkins](https://img.shields.io/badge/Jenkins-00d9ff?style=for-the-badge&logo=jenkins&logoColor=0a0a0a)
 
-**Databases & Messaging**
+**DATABASES & MESSAGING**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b794f6?style=for-the-badge&logo=postgresql&logoColor=0a0a0a)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-ff6ec7?style=for-the-badge&logo=apachekafka&logoColor=0a0a0a)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-00d9ff?style=for-the-badge&logo=elasticsearch&logoColor=0a0a0a)
+![Couchbase](https://img.shields.io/badge/Couchbase-b794f6?style=for-the-badge&logo=couchbase&logoColor=0a0a0a)
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br>
 
 <!-- ACHIEVEMENTS -->
 <div align="center">
 
-## 🎯 Key Achievements
+<h2>💎 MISSION STATS</h2>
 
 <br>
 
-| Metric | Achievement |
-|:------:|:-----------:|
-| 🚀 **Microservices** | 70+ in Production |
-| ⚡ **Uptime** | 99.9% |
-| 📨 **Recovery Rate** | 100% |
-| 🔧 **DevOps Efficiency** | +25% |
-| 🐛 **Bug Reduction** | -20% |
-| 💡 **Development Speed** | +30% |
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀_MICROSERVICES-70+-ff6ec7?style=for-the-badge&labelColor=0a0a0a"/>
+<br><sub><b>Services in Production</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡_UPTIME-99.9%25-00d9ff?style=for-the-badge&labelColor=0a0a0a"/>
+<br><sub><b>System Availability</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📨_RECOVERY-100%25-b794f6?style=for-the-badge&labelColor=0a0a0a"/>
+<br><sub><b>Message Recovery</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⚙️_EFFICIENCY-+25%25-ff6ec7?style=for-the-badge&labelColor=0a0a0a"/>
+<br><sub><b>DevOps Boost</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🐛_BUGS--20%25-00d9ff?style=for-the-badge&labelColor=0a0a0a"/>
+<br><sub><b>Error Reduction</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💡_SPEED-+30%25-b794f6?style=for-the-badge&labelColor=0a0a0a"/>
+<br><sub><b>Dev Velocity</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br>
 
 <!-- GITHUB STATS -->
 <div align="center">
 
-## 📊 GitHub Stats
+<h2>📊 ANALYTICS DASHBOARD</h2>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=818cf8&text_color=94a3b8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=94a3b8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nivi842&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6ec7&icon_color=00d9ff&text_color=b794f6&ring_color=ff6ec7"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivi842&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff6ec7&text_color=b794f6"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nivi842&theme=tokyonight&hide_border=true&background=1a1b27&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nivi842&theme=synthwave&hide_border=true&background=0a0a0a&ring=ff6ec7&fire=00d9ff&currStreakLabel=ff6ec7&sideLabels=b794f6"/>
 
 <br><br>
 
@@ -174,38 +200,57 @@ metrics:
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br>
 
-<!-- CONTACT -->
+<!-- ACTIVITY -->
 <div align="center">
 
-## 📫 Let's Connect
+<h2>🔥 CONTRIBUTION GRAPH</h2>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi842&bg_color=0a0a0a&color=ff6ec7&line=00d9ff&point=b794f6&area=true&hide_border=true"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+
+<h2>💌 CONNECT</h2>
 
 <br>
 
 <a href="https://www.linkedin.com/in/nivetha-g-b287871b9/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-ff6ec7?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a"/>
 </a>
 <a href="mailto:nivethag.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-00d9ff?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a"/>
 </a>
 <a href="https://bit.ly/nivethag-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-b794f6?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0a0a0a"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Nivi842&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Nivi842&color=ff6ec7&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚡_SYSTEM_STATUS-OPERATIONAL-00ff00?style=for-the-badge&labelColor=0a0a0a"/>
 
 </div>
 
 <br><br>
 
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer"/>
 </div>
